@@ -111,20 +111,58 @@ Each book file follows this structure:
 
 ## Scripts
 
-- `download_bible_chapters.py` - Downloads all chapters from BibliaOrtodoxa.ro
-- `verify_completeness.py` - Verifies that all expected chapters are present
-- `test_fetch.py` - Test script for fetching individual chapters
+### Main Scripts
+
+1. **`download_bible_chapters.py`** - Downloads all chapters from BibliaOrtodoxa.ro
+   - Automatically adds `book_number` and `chapter_count` fields
+   - Saves files with proper naming: `##_RomanianName.json`
+   - Creates complete JSON files in `bible_books/` directory
+
+2. **`normalize_bible_books.sh`** - Normalizes Romanian special characters
+   - Converts Romanian diacritics (ă→a, ș→s, ț→t, etc.)
+   - Creates `bible_books_normalized/` directory
+   - Useful for text search and processing
+
+3. **`verify_completeness.py`** - Verifies data completeness
+   - Checks all 78 books are present
+   - Verifies all chapters are downloaded
+   - Ensures all chapters contain verses
 
 ## Usage
+
+### Starting from Zero
+
+To download all Bible books from scratch:
+```bash
+# 1. Download all chapters (takes ~15 minutes)
+python3 download_bible_chapters.py
+
+# 2. Normalize Romanian characters (optional, for better search)
+./normalize_bible_books.sh
+
+# 3. Verify everything downloaded correctly
+python3 verify_completeness.py
+```
+
+### Re-downloading
+
+To re-download all data:
+```bash
+# Remove existing data
+rm -rf bible_books/ bible_books_normalized/
+
+# Download fresh copy
+python3 download_bible_chapters.py
+
+# Normalize if needed
+./normalize_bible_books.sh
+```
+
+### Verify Existing Data
 
 To verify data completeness:
 ```bash
 python3 verify_completeness.py
-```
-
-To re-download all data:
-```bash
-python3 download_bible_chapters.py
 ```
 
 ## Notes
