@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<string>", line 22, in <module>
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0218' in position 6: character maps to <undefined>
+Genesis:
+  EN: Six Days of Creation and the Sabbath

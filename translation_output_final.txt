@@ -1,0 +1,957 @@
+
+======================================================================
+Bible Pericope Title Translation - English to Romanian
+Using Orthodox Romanian Bible Terminology
+======================================================================
+
+======================================================================
+Processing: 52_Matei_pericopes.json
+======================================================================
+[OK] Matthew_04_02
+  EN: Jesus Begins His Ministry in Galilee
+  RO: Isus începe slujirea în Galileea
+[OK] Matthew_04_04
+  EN: Jesus Ministers to Crowds of People
+  RO: Isus slujește mulțimilor de oameni
+[OK] Matthew_05_01
+  EN: The Beatitudes
+  RO: Fericirile
+[OK] Matthew_05_02
+  EN: Salt and Light
+  RO: Sare și lumină
+[OK] Matthew_05_04
+  EN: Concerning Anger
+  RO: Despre mânie
+[OK] Matthew_05_05
+  EN: Concerning Adultery
+  RO: Despre adulter
+[OK] Matthew_05_06
+  EN: Concerning Divorce
+  RO: Despre divorț
+[OK] Matthew_05_07
+  EN: Concerning Oaths
+  RO: Despre jurăminte
+[OK] Matthew_05_08
+  EN: Concerning Retaliation
+  RO: Despre răzbunare
+[OK] Matthew_06_01
+  EN: Concerning Almsgiving
+  RO: Despre milostenie
+[OK] Matthew_06_02
+  EN: Concerning Prayer
+  RO: Despre rugăciune
+[OK] Matthew_06_03
+  EN: Concerning Fasting
+  RO: Despre post
+[OK] Matthew_06_04
+  EN: Concerning Treasures
+  RO: Despre comori
+[OK] Matthew_06_05
+  EN: The Sound Eye
+  RO: Ochiul sănătos
+[OK] Matthew_06_06
+  EN: Serving Two Masters
+  RO: Slujirea a doi stăpâni
+[OK] Matthew_07_01
+  EN: Judging Others
+  RO: Judecarea altora
+[OK] Matthew_07_02
+  EN: Profaning the Holy
+  RO: Pângărirea sfințeniei
+[OK] Matthew_07_03
+  EN: Ask, Search, Knock
+  RO: Cereți, căutați, bateți
+[OK] Matthew_07_04
+  EN: The Golden Rule
+  RO: Regula de aur
+[OK] Matthew_07_05
+  EN: The Narrow Gate
+  RO: Poarta cea strâmtă
+[OK] Matthew_07_07
+  EN: Concerning Self-Deception
+  RO: Despre înșelarea de sine
+[OK] Matthew_07_08
+  EN: Hearers and Doers
+  RO: Ascultători și făcători
+[OK] Matthew_08_04
+  EN: Would-Be Followers of Jesus
+  RO: Posibilii următori ai lui Isus
+[OK] Matthew_08_05
+  EN: Jesus Stills the Storm
+  RO: Isus potolește furtuna
+[OK] Matthew_08_06
+  EN: Jesus Heals the Gadarene Demoniacs
+  RO: Isus vindecă pe îndrăciții din Gadara
+[OK] Matthew_09_02
+  EN: The Call of Matthew
+  RO: Chemarea lui Matei
+[OK] Matthew_09_05
+  EN: Jesus Heals Two Blind Men
+  RO: Isus vindecă doi orbi
+[OK] Matthew_09_06
+  EN: Jesus Heals One Who Was Mute
+  RO: Isus vindecă pe un mut
+[OK] Matthew_09_07
+  EN: The Harvest Is Great, the Laborers Few
+  RO: Secerișul este mare, lucrătorii puțini
+[OK] Matthew_10_01
+  EN: The Twelve Apostles
+  RO: Cei doisprezece apostoli
+[OK] Matthew_10_03
+  EN: Coming Persecutions
+  RO: Prigonirile ce vor veni
+[OK] Matthew_10_04
+  EN: Whom to Fear
+  RO: Pe cine să ne temem
+[OK] Matthew_10_05
+  EN: Not Peace, but a Sword
+  RO: Nu pace, ci sabie
+[OK] Matthew_10_06
+  EN: Rewards
+  RO: Răsplătirile
+[OK] Matthew_11_01
+  EN: Messengers from John the Baptist
+  RO: Solii de la Ioan Botezătorul
+[OK] Matthew_11_02
+  EN: Jesus Praises John the Baptist
+  RO: Isus laudă pe Ioan Botezătorul
+[OK] Matthew_11_03
+  EN: Woes to Unrepentant Cities
+  RO: Vai de cetățile nepocăite
+[OK] Matthew_11_04
+  EN: Jesus Thanks His Father
+  RO: Isus mulțumește Tatălui Său
+[OK] Matthew_12_01
+  EN: Plucking Grain on the Sabbath
+  RO: Smulgerea spicelor în ziua Sabatului
+[OK] Matthew_12_02
+  EN: The Man with a Withered Hand
+  RO: Omul cu mâna uscată
+[OK] Matthew_12_07
+  EN: The Return of the Unclean Spirit
+  RO: Întoarcerea duhului necurat
+[OK] Matthew_12_08
+  EN: The True Kindred of Jesus
+  RO: Adevărații rudenilor ai lui Isus
+[OK] Matthew_13_03
+  EN: The Parable of the Sower Explained
+  RO: Pilda semănătorului tâlcuită
+[OK] Matthew_13_04
+  EN: The Parable of Weeds among the Wheat
+  RO: Pilda neghinei între grâu
+[OK] Matthew_13_07
+  EN: The Use of Parables
+  RO: Folosirea pildelor
+[OK] Matthew_13_08
+  EN: Jesus Explains the Parable of the Weeds
+  RO: Isus tâlcuiește pilda neghinei
+[OK] Matthew_13_09
+  EN: Three Parables
+  RO: Trei pilde
+[OK] Matthew_13_10
+  EN: Treasures New and Old
+  RO: Comori noi și vechi
+[OK] Matthew_14_04
+  EN: Jesus Heals the Sick in Gennesaret
+  RO: Isus vindecă pe bolnavi în Ghenisaret
+[OK] Matthew_15_01
+  EN: The Tradition of the Elders
+  RO: Tradiția bătrânilor
+[OK] Matthew_15_02
+  EN: Things That Defile
+  RO: Lucrurile care întinează
+[OK] Matthew_15_04
+  EN: Jesus Cures Many People
+  RO: Isus vindecă pe mulți oameni
+[OK] Matthew_16_01
+  EN: The Demand for a Sign
+  RO: Cererea unui semn
+[OK] Matthew_16_02
+  EN: The Yeast of the Pharisees and Sadducees
+  RO: Dospeala fariseilor și saducheilor
+[OK] Matthew_16_05
+  EN: The Cross and Self-Denial
+  RO: Crucea și lepădarea de sine
+[OK] Matthew_17_02
+  EN: Jesus Cures a Boy with a Demon
+  RO: Isus vindecă un băiat îndrăcit
+[OK] Matthew_17_04
+  EN: Jesus and the Temple Tax
+  RO: Isus și darea Templului
+[OK] Matthew_18_01
+  EN: True Greatness
+  RO: Adevărata măreție
+[OK] Matthew_18_02
+  EN: Temptations to Sin
+  RO: Ispitele la păcat
+[OK] Matthew_18_04
+  EN: Reproving Another Who Sins
+  RO: Mustrarea celui ce păcătuiește
+[OK] Matthew_18_05
+  EN: Forgiveness
+  RO: Iertarea
+[OK] Matthew_18_06
+  EN: The Parable of the Unforgiving Servant
+  RO: Pilda slugii neiertătoare
+[OK] Matthew_19_01
+  EN: Teaching about Divorce
+  RO: Învățătura despre divorț
+[OK] Matthew_19_03
+  EN: The Rich Young Man
+  RO: Tânărul bogat
+[OK] Matthew_20_01
+  EN: The Laborers in the Vineyard
+  RO: Lucrătorii din vie
+[OK] Matthew_20_03
+  EN: The Request of the Mother of James and John
+  RO: Cererea mamei lui Iacov și Ioan
+[OK] Matthew_20_04
+  EN: Jesus Heals Two Blind Men
+  RO: Isus vindecă doi orbi
+[OK] Matthew_21_06
+  EN: The Parable of the Wicked Tenants
+  RO: Pilda viilor răi
+[OK] Matthew_22_02
+  EN: The Question about Paying Taxes
+  RO: Întrebarea despre plata dărilor
+[OK] Matthew_22_03
+  EN: The Question about the Resurrection
+  RO: Întrebarea despre înviere
+[OK] Matthew_22_04
+  EN: The Greatest Commandment
+  RO: Cea mai mare poruncă
+[OK] Matthew_23_01
+  EN: Jesus Denounces Scribes and Pharisees
+  RO: Isus mustră pe cărturari și farisei
+[OK] Matthew_23_02
+  EN: The Lament over Jerusalem
+  RO: Plângerea pentru Ierusalim
+[OK] Matthew_24_01
+  EN: The Destruction of the Temple Foretold
+  RO: Vestirea distrugerii Templului
+[OK] Matthew_24_02
+  EN: Signs of the End of the Age
+  RO: Semnele sfârșitului veacului
+[OK] Matthew_24_03
+  EN: Persecutions Foretold
+  RO: Prigonirile vestite
+[OK] Matthew_24_04
+  EN: The Desolating Sacrilege
+  RO: Urâciunea pustiirii
+[OK] Matthew_24_05
+  EN: The Coming of the Son of Man
+  RO: Venirea Fiului Omului
+[OK] Matthew_24_06
+  EN: The Lesson of the Fig Tree
+  RO: Învățătura din smochin
+[OK] Matthew_24_07
+  EN: The Necessity for Watchfulness
+  RO: Necesitatea vegherii
+[OK] Matthew_24_08
+  EN: The Faithful or the Unfaithful Slave
+  RO: Robul credincios sau necredincios
+[OK] Matthew_25_01
+  EN: The Parable of the Ten Bridesmaids
+  RO: Pilda celor zece fecioare
+[OK] Matthew_25_03
+  EN: The Judgment of the Nations
+  RO: Judecata neamurilor
+[OK] Matthew_26_03
+  EN: Judas Agrees to Betray Jesus
+  RO: Iuda se învoire să-L trădeze pe Isus
+[OK] Matthew_26_04
+  EN: The Passover with the Disciples
+  RO: Paștele cu ucenicii
+[OK] Matthew_26_08
+  EN: The Betrayal and Arrest of Jesus
+  RO: Trădarea și arestarea lui Isus
+[OK] Matthew_26_09
+  EN: Jesus before the High Priest
+  RO: Isus înaintea Marelui Preot
+[OK] Matthew_27_01
+  EN: Jesus Brought before Pilate
+  RO: Isus adus înaintea lui Pilat
+[OK] Matthew_27_02
+  EN: The Suicide of Judas
+  RO: Sinuciderea lui Iuda
+[OK] Matthew_27_03
+  EN: Pilate Questions Jesus
+  RO: Pilat Îl interoghează pe Isus
+[OK] Matthew_27_04
+  EN: Barabbas or Jesus
+  RO: Baraba sau Isus
+[OK] Matthew_27_05
+  EN: Pilate Hands Jesus over to Be Crucified
+  RO: Pilat Îl predă pe Isus să fie răstignit
+[OK] Matthew_27_06
+  EN: The Soldiers Mock Jesus
+  RO: Ostașii Îl batjocoresc pe Isus
+[OK] Matthew_27_09
+  EN: The Burial of Jesus
+  RO: Îngroparea lui Isus
+[OK] Matthew_27_10
+  EN: The Guard at the Tomb
+  RO: Paza la mormânt
+[OK] Matthew_28_02
+  EN: The Report of the Guard
+  RO: Raportul pazei
+[OK] Matthew_28_03
+  EN: The Commissioning of the Disciples
+  RO: Trimiterea ucenicilor
+
+----------------------------------------------------------------------
+Summary for Matei:
+  Total pericopes:        156
+  Already translated:      49
+  Newly translated:        97
+  Missing translations:    10
+
+  Missing translations:
+    - Jesus Heals a Centurion’s Servant
+    - Jesus Heals Many at Peter’s House
+    - God’s Chosen Servant
+    - The Canaanite Woman’s Faith
+    - Peter’s Declaration about Jesus
+    - Jesus’ Triumphal Entry into Jerusalem
+    - The Question about David’s Son
+    - The Institution of the Lord’s Supper
+    - Peter’s Denial Foretold
+    - Peter’s Denial of Jesus
+
+======================================================================
+Processing: 53_Marcu_pericopes.json
+======================================================================
+[OK] Mark_01_04
+  EN: The Beginning of the Galilean Ministry
+  RO: Începutul slujirii în Galileea
+[OK] Mark_01_06
+  EN: The Man with an Unclean Spirit
+  RO: Omul cu duh necurat
+[OK] Mark_02_04
+  EN: Pronouncement about the Sabbath
+  RO: Învățătura despre Sabat
+[OK] Mark_03_01
+  EN: The Man with a Withered Hand
+  RO: Omul cu mâna uscată
+[OK] Mark_03_05
+  EN: The True Kindred of Jesus
+  RO: Adevărații rudenilor ai lui Isus
+[OK] Mark_04_06
+  EN: The Use of Parables
+  RO: Folosirea pildelor
+[OK] Mark_07_01
+  EN: The Tradition of the Elders
+  RO: Tradiția bătrânilor
+[OK] Mark_08_02
+  EN: The Demand for a Sign
+  RO: Cererea unui semn
+[OK] Mark_08_03
+  EN: The Yeast of the Pharisees and of Herod
+  RO: Dospeala fariseilor și a lui Irod
+[OK] Mark_09_02
+  EN: The Coming of Elijah
+  RO: Venirea lui Ilie
+[OK] Mark_09_03
+  EN: The Healing of a Boy with a Spirit
+  RO: Vindecarea unui băiat cu duh
+[OK] Mark_09_07
+  EN: Temptations to Sin
+  RO: Ispitele la păcat
+[OK] Mark_10_01
+  EN: Teaching about Divorce
+  RO: Învățătura despre divorț
+[OK] Mark_10_03
+  EN: The Rich Man
+  RO: Omul bogat
+[OK] Mark_10_06
+  EN: The Healing of Blind Bartimaeus
+  RO: Vindecarea orbului Bartimeu
+[OK] Mark_11_04
+  EN: The Lesson from the Withered Fig Tree
+  RO: Învățătura din smochinul uscat
+[OK] Mark_12_01
+  EN: The Parable of the Wicked Tenants
+  RO: Pilda viilor răi
+[OK] Mark_12_02
+  EN: The Question about Paying Taxes
+  RO: Întrebarea despre plata dărilor
+[OK] Mark_12_03
+  EN: The Question about the Resurrection
+  RO: Întrebarea despre înviere
+[OK] Mark_12_04
+  EN: The First Commandment
+  RO: Porunca cea dintâi
+[OK] Mark_13_01
+  EN: The Destruction of the Temple Foretold
+  RO: Vestirea distrugerii Templului
+[OK] Mark_13_02
+  EN: Persecution Foretold
+  RO: Prigonirea vestită
+[OK] Mark_13_03
+  EN: The Desolating Sacrilege
+  RO: Urâciunea pustiirii
+[OK] Mark_13_04
+  EN: The Coming of the Son of Man
+  RO: Venirea Fiului Omului
+[OK] Mark_13_05
+  EN: The Lesson of the Fig Tree
+  RO: Învățătura din smochin
+[OK] Mark_13_06
+  EN: The Necessity for Watchfulness
+  RO: Necesitatea vegherii
+[OK] Mark_14_03
+  EN: Judas Agrees to Betray Jesus
+  RO: Iuda se învoire să-L trădeze pe Isus
+[OK] Mark_14_04
+  EN: The Passover with the Disciples
+  RO: Paștele cu ucenicii
+[OK] Mark_14_08
+  EN: The Betrayal and Arrest of Jesus
+  RO: Trădarea și arestarea lui Isus
+[OK] Mark_14_09
+  EN: Jesus before the Council
+  RO: Isus înaintea Soborului
+[OK] Mark_14_10
+  EN: Peter Denies Jesus
+  RO: Petru Îl tăgăduiește pe Isus
+[OK] Mark_15_02
+  EN: Pilate Hands Jesus over to Be Crucified
+  RO: Pilat Îl predă pe Isus să fie răstignit
+[OK] Mark_15_03
+  EN: The Soldiers Mock Jesus
+  RO: Ostașii Îl batjocoresc pe Isus
+[OK] Mark_15_06
+  EN: The Burial of Jesus
+  RO: Îngroparea lui Isus
+
+----------------------------------------------------------------------
+Summary for Marcu:
+  Total pericopes:         94
+  Already translated:      51
+  Newly translated:        34
+  Missing translations:     9
+
+  Missing translations:
+    - Jesus Heals Many at Simon’s House
+    - The Syrophoenician Woman’s Faith
+    - Peter’s Declaration about Jesus
+    - Jesus’ Triumphal Entry into Jerusalem
+    - Jesus’ Authority Is Questioned
+    - The Question about David’s Son
+    - The Widow’s Offering
+    - The Institution of the Lord’s Supper
+    - Peter’s Denial Foretold
+
+======================================================================
+Processing: 54_Luca_pericopes.json
+======================================================================
+[OK] Luke_01_04
+  EN: Mary Visits Elizabeth
+  RO: Maria o vizitează pe Elisabeta
+[OK] Luke_02_01
+  EN: The Birth of Jesus
+  RO: Nașterea lui Isus
+[OK] Luke_02_05
+  EN: The Return to Nazareth
+  RO: Întoarcerea la Nazaret
+[OK] Luke_03_03
+  EN: The Ancestors of Jesus
+  RO: Strămoșii lui Isus
+[OK] Luke_04_02
+  EN: The Beginning of the Galilean Ministry
+  RO: Începutul slujirii în Galileea
+[OK] Luke_04_04
+  EN: The Man with an Unclean Spirit
+  RO: Omul cu duh necurat
+[OK] Luke_06_01
+  EN: The Question about the Sabbath
+  RO: Întrebarea despre Sabat
+[OK] Luke_06_02
+  EN: The Man with a Withered Hand
+  RO: Omul cu mâna uscată
+[OK] Luke_06_07
+  EN: Judging Others
+  RO: Judecarea altora
+[OK] Luke_06_09
+  EN: The Two Foundations
+  RO: Cele două temelii
+[OK] Luke_07_03
+  EN: Messengers from John the Baptist
+  RO: Solii de la Ioan Botezătorul
+[OK] Luke_08_01
+  EN: Some Women Accompany Jesus
+  RO: Câteva femei Îl însoțesc pe Isus
+[OK] Luke_08_04
+  EN: The Parable of the Sower Explained
+  RO: Pilda semănătorului tâlcuită
+[OK] Luke_08_06
+  EN: The True Kindred of Jesus
+  RO: Adevărații rudenilor ai lui Isus
+[OK] Luke_09_09
+  EN: True Greatness
+  RO: Adevărata măreție
+[OK] Luke_09_12
+  EN: Would-Be Followers of Jesus
+  RO: Posibilii următori ai lui Isus
+[OK] Luke_10_01
+  EN: The Mission of the Seventy
+  RO: Trimiterea celor șaptezeci
+[OK] Luke_10_02
+  EN: Woes to Unrepentant Cities
+  RO: Vai de cetățile nepocăite
+[OK] Luke_10_03
+  EN: The Return of the Seventy
+  RO: Întoarcerea celor șaptezeci
+[OK] Luke_10_05
+  EN: The Parable of the Good Samaritan
+  RO: Pilda bunului samaritean
+[OK] Luke_11_02
+  EN: Perseverance in Prayer
+  RO: Stăruința în rugăciune
+[OK] Luke_11_04
+  EN: The Return of the Unclean Spirit
+  RO: Întoarcerea duhului necurat
+[OK] Luke_11_07
+  EN: The Light of the Body
+  RO: Lumina trupului
+[OK] Luke_12_05
+  EN: Watchful Slaves
+  RO: Robi vigilenți
+[OK] Luke_12_06
+  EN: The Faithful or the Unfaithful Slave
+  RO: Robul credincios sau necredincios
+[OK] Luke_12_07
+  EN: Jesus the Cause of Division
+  RO: Isus, pricina dezbinării
+[OK] Luke_12_09
+  EN: Settling with Your Opponent
+  RO: Împăcarea cu potrivnicul tău
+[OK] Luke_13_02
+  EN: The Parable of the Barren Fig Tree
+  RO: Pilda smochinului neroditor
+[OK] Luke_13_06
+  EN: The Narrow Door
+  RO: Poarta cea strâmtă
+[OK] Luke_13_07
+  EN: The Lament over Jerusalem
+  RO: Plângerea pentru Ierusalim
+[OK] Luke_14_03
+  EN: The Parable of the Great Dinner
+  RO: Pilda marelui ospăț
+[OK] Luke_14_04
+  EN: The Cost of Discipleship
+  RO: Prețul uceniciei
+[OK] Luke_15_03
+  EN: The Parable of the Prodigal and His Brother
+  RO: Pilda fiului risipitor și a fratelui său
+[OK] Luke_16_01
+  EN: The Parable of the Dishonest Manager
+  RO: Pilda economului necinstit
+[OK] Luke_16_02
+  EN: The Law and the Kingdom of God
+  RO: Legea și Împărăția lui Dumnezeu
+[OK] Luke_17_01
+  EN: Some Sayings of Jesus
+  RO: Câteva cuvinte ale lui Isus
+[OK] Luke_17_03
+  EN: The Coming of the Kingdom
+  RO: Venirea Împărăției
+[OK] Luke_18_01
+  EN: The Parable of the Widow and the Unjust Judge
+  RO: Pilda văduvei și judecătorului nedrept
+[OK] Luke_18_04
+  EN: The Rich Ruler
+  RO: Dregătorul bogat
+[OK] Luke_19_02
+  EN: The Parable of the Ten Pounds
+  RO: Pilda celor zece mine
+[OK] Luke_20_02
+  EN: The Parable of the Wicked Tenants
+  RO: Pilda viilor răi
+[OK] Luke_20_03
+  EN: The Question about Paying Taxes
+  RO: Întrebarea despre plata dărilor
+[OK] Luke_20_04
+  EN: The Question about the Resurrection
+  RO: Întrebarea despre înviere
+[OK] Luke_21_02
+  EN: The Destruction of the Temple Foretold
+  RO: Vestirea distrugerii Templului
+[OK] Luke_21_03
+  EN: Signs and Persecutions
+  RO: Semne și prigoniri
+[OK] Luke_21_04
+  EN: The Destruction of Jerusalem Foretold
+  RO: Vestirea distrugerii Ierusalimului
+[OK] Luke_21_05
+  EN: The Coming of the Son of Man
+  RO: Venirea Fiului Omului
+[OK] Luke_21_06
+  EN: The Lesson of the Fig Tree
+  RO: Învățătura din smochin
+[OK] Luke_22_02
+  EN: The Preparation of the Passover
+  RO: Pregătirea Paștelui
+[OK] Luke_22_04
+  EN: The Dispute about Greatness
+  RO: Disputa despre măreție
+[OK] Luke_22_06
+  EN: Purse, Bag, and Sword
+  RO: Pungă, traistă și sabie
+[OK] Luke_22_08
+  EN: The Betrayal and Arrest of Jesus
+  RO: Trădarea și arestarea lui Isus
+[OK] Luke_22_09
+  EN: Peter Denies Jesus
+  RO: Petru Îl tăgăduiește pe Isus
+[OK] Luke_22_10
+  EN: The Mocking and Beating of Jesus
+  RO: Batjocorirea și bătaia lui Isus
+[OK] Luke_22_11
+  EN: Jesus before the Council
+  RO: Isus înaintea Soborului
+[OK] Luke_23_02
+  EN: Jesus before Herod
+  RO: Isus înaintea lui Irod
+[OK] Luke_23_06
+  EN: The Burial of Jesus
+  RO: Îngroparea lui Isus
+[OK] Luke_24_02
+  EN: The Walk to Emmaus
+  RO: Drumul spre Emaus
+
+----------------------------------------------------------------------
+Summary for Luca:
+  Total pericopes:        150
+  Already translated:      79
+  Newly translated:        58
+  Missing translations:    13
+
+  Missing translations:
+    - Mary’s Song of Praise
+    - Zechariah’s Prophecy
+    - Healings at Simon’s House
+    - Jesus Heals a Centurion’s Servant
+    - Jesus Raises the Widow’s Son at Nain
+    - Herod’s Perplexity
+    - Peter’s Declaration about Jesus
+    - The Lord’s Prayer
+    - Jesus’ Triumphal Entry into Jerusalem
+    - The Question about David’s Son
+    ... and 3 more
+
+======================================================================
+Processing: 55_Ioan_pericopes.json
+======================================================================
+[OK] John_01_04
+  EN: The First Disciples of Jesus
+  RO: Primii ucenici ai lui Isus
+[OK] John_03_03
+  EN: The One Who Comes from Heaven
+  RO: Cel ce vine din cer
+[OK] John_04_01
+  EN: Jesus and the Woman of Samaria
+  RO: Isus și femeia samarineancă
+[OK] John_05_02
+  EN: The Authority of the Son
+  RO: Autoritatea Fiului
+[OK] John_05_03
+  EN: Witnesses to Jesus
+  RO: Martori despre Isus
+[OK] John_06_03
+  EN: The Bread from Heaven
+  RO: Pâinea din cer
+[OK] John_06_04
+  EN: The Words of Eternal Life
+  RO: Cuvintele vieții veșnice
+[OK] John_07_02
+  EN: Jesus at the Festival of Booths
+  RO: Isus la Sărbătoarea Corturilor
+[OK] John_07_05
+  EN: Rivers of Living Water
+  RO: Râuri de apă vie
+[OK] John_07_07
+  EN: The Unbelief of Those in Authority
+  RO: Necredința celor cu autoritate
+[OK] John_08_03
+  EN: True Disciples
+  RO: Adevărații ucenici
+[OK] John_09_03
+  EN: Spiritual Blindness
+  RO: Orbirea duhovnicească
+[OK] John_11_01
+  EN: The Death of Lazarus
+  RO: Moartea lui Lazăr
+[OK] John_12_01
+  EN: Mary Anoints Jesus
+  RO: Maria Îl unge pe Isus
+[OK] John_12_04
+  EN: Some Greeks Wish to See Jesus
+  RO: Niște greci doresc să-L vadă pe Isus
+[OK] John_13_03
+  EN: The New Commandment
+  RO: Porunca cea nouă
+[OK] John_15_01
+  EN: Jesus the True Vine
+  RO: Isus, Viță adevărată
+[OK] John_16_02
+  EN: Sorrow Will Turn into Joy
+  RO: Întristarea se va preface în bucurie
+[OK] John_16_03
+  EN: Peace for the Disciples
+  RO: Pace pentru ucenici
+[OK] John_18_01
+  EN: The Betrayal and Arrest of Jesus
+  RO: Trădarea și arestarea lui Isus
+[OK] John_18_02
+  EN: Jesus before the High Priest
+  RO: Isus înaintea Marelui Preot
+[OK] John_18_03
+  EN: Peter Denies Jesus
+  RO: Petru Îl tăgăduiește pe Isus
+[OK] John_18_04
+  EN: The High Priest Questions Jesus
+  RO: Marele Preot Îl interoghează pe Isus
+[OK] John_18_05
+  EN: Peter Denies Jesus Again
+  RO: Petru Îl tăgăduiește din nou pe Isus
+[OK] John_19_03
+  EN: The Burial of Jesus
+  RO: Îngroparea lui Isus
+[OK] John_20_05
+  EN: The Purpose of This Book
+  RO: Scopul acestei cărți
+[OK] John_21_03
+  EN: Jesus and the Beloved Disciple
+  RO: Isus și ucenicul iubit
+
+----------------------------------------------------------------------
+Summary for Ioan:
+  Total pericopes:         79
+  Already translated:      44
+  Newly translated:        27
+  Missing translations:     8
+
+  Missing translations:
+    - Jesus Heals an Official’s Son
+    - The Unbelief of Jesus’ Brothers
+    - Jesus’ Triumphal Entry into Jerusalem
+    - Summary of Jesus’ Teaching
+    - Jesus Washes the Disciples’ Feet
+    - Jesus Foretells Peter’s Denial
+    - The World’s Hatred
+    - Jesus’ Side Is Pierced
+
+======================================================================
+Processing: 56_Faptele Apostolilor_pericopes.json
+======================================================================
+[OK] Acts_01_03
+  EN: Matthias Chosen to Replace Judas
+  RO: Matia este ales în locul lui Iuda
+[OK] Acts_02_04
+  EN: Life among the Believers
+  RO: Viața între credincioși
+[OK] Acts_04_02
+  EN: The Believers Pray for Boldness
+  RO: Credincioșii se roagă pentru îndrăzneală
+[OK] Acts_05_03
+  EN: The Apostles Are Persecuted
+  RO: Apostolii sunt prigoniți
+[OK] Acts_06_02
+  EN: The Arrest of Stephen
+  RO: Arestarea lui Ștefan
+[OK] Acts_08_01
+  EN: Saul Persecutes the Church
+  RO: Saul prigonește Biserica
+[OK] Acts_08_02
+  EN: Philip Preaches in Samaria
+  RO: Filip propovăduiește în Samaria
+[OK] Acts_09_02
+  EN: Saul Preaches in Damascus
+  RO: Saul propovăduiește în Damasc
+[OK] Acts_09_03
+  EN: Saul Escapes from the Jews
+  RO: Saul scapă de iudei
+[OK] Acts_09_04
+  EN: Saul in Jerusalem
+  RO: Saul în Ierusalim
+[OK] Acts_09_05
+  EN: The Healing of Aeneas
+  RO: Vindecarea lui Enea
+[OK] Acts_09_06
+  EN: Peter in Lydda and Joppa
+  RO: Petru în Lida și Iope
+[OK] Acts_10_01
+  EN: Peter and Cornelius
+  RO: Petru și Corneliu
+[OK] Acts_11_02
+  EN: The Church in Antioch
+  RO: Biserica din Antiohia
+[OK] Acts_13_02
+  EN: The Apostles Preach in Cyprus
+  RO: Apostolii propovăduiesc în Cipru
+[OK] Acts_14_01
+  EN: Paul and Barnabas in Iconium
+  RO: Pavel și Barnaba în Iconia
+[OK] Acts_14_02
+  EN: Paul and Barnabas in Lystra and Derbe
+  RO: Pavel și Barnaba în Listra și Derbe
+[OK] Acts_14_03
+  EN: The Return to Antioch in Syria
+  RO: Întoarcerea la Antiohia Siriei
+[OK] Acts_15_01
+  EN: The Council at Jerusalem
+  RO: Sinodul de la Ierusalim
+[OK] Acts_16_03
+  EN: The Conversion of Lydia
+  RO: Convertirea Lidiei
+[OK] Acts_17_01
+  EN: The Uproar in Thessalonica
+  RO: Răscoala din Tesalonic
+[OK] Acts_17_02
+  EN: Paul and Silas in Beroea
+  RO: Pavel și Sila în Bereea
+[OK] Acts_18_03
+  EN: Ministry of Apollos
+  RO: Slujirea lui Apolo
+[OK] Acts_19_02
+  EN: The Sons of Sceva
+  RO: Fiii lui Scheva
+[OK] Acts_19_03
+  EN: The Riot in Ephesus
+  RO: Răscoala din Efes
+[OK] Acts_20_01
+  EN: Paul Goes to Macedonia and Greece
+  RO: Pavel merge în Macedonia și Grecia
+[OK] Acts_20_03
+  EN: The Voyage from Troas to Miletus
+  RO: Călătoria de la Troa la Milet
+[OK] Acts_21_02
+  EN: Paul Visits James at Jerusalem
+  RO: Pavel îl vizitează pe Iacov în Ierusalim
+[OK] Acts_21_04
+  EN: Paul Defends Himself
+  RO: Pavel se apără
+[OK] Acts_22_01
+  EN: Paul Tells of His Conversion
+  RO: Pavel povestește despre convertirea sa
+[OK] Acts_22_02
+  EN: Paul Sent to the Gentiles
+  RO: Pavel este trimis la neamuri
+[OK] Acts_22_03
+  EN: Paul and the Roman Tribune
+  RO: Pavel și tribunul roman
+[OK] Acts_22_04
+  EN: Paul before the Council
+  RO: Pavel înaintea Soborului
+[OK] Acts_23_01
+  EN: The Plot to Kill Paul
+  RO: Uneltirea pentru uciderea lui Pavel
+[OK] Acts_23_02
+  EN: Paul Sent to Felix the Governor
+  RO: Pavel este trimis la guvernatorul Felix
+[OK] Acts_24_01
+  EN: Paul before Felix at Caesarea
+  RO: Pavel înaintea lui Felix la Cezareea
+[OK] Acts_24_03
+  EN: Paul Held in Custody
+  RO: Pavel este ținut în arest
+[OK] Acts_25_01
+  EN: Paul Appeals to the Emperor
+  RO: Pavel face apel la împărat
+[OK] Acts_25_03
+  EN: Paul Brought before Agrippa
+  RO: Pavel adus înaintea lui Agripa
+[OK] Acts_26_01
+  EN: Paul Defends Himself before Agrippa
+  RO: Pavel se apără înaintea lui Agripa
+[OK] Acts_26_02
+  EN: Paul Tells of His Conversion
+  RO: Pavel povestește despre convertirea sa
+[OK] Acts_26_03
+  EN: Paul Tells of His Preaching
+  RO: Pavel povestește despre propovăduirea sa
+[OK] Acts_26_04
+  EN: Paul Appeals to Agrippa to Believe
+  RO: Pavel face apel la Agripa să creadă
+[OK] Acts_27_01
+  EN: Paul Sails for Rome
+  RO: Pavel navighează spre Roma
+[OK] Acts_27_02
+  EN: The Storm at Sea
+  RO: Furtuna pe mare
+[OK] Acts_27_03
+  EN: The Shipwreck
+  RO: Naufragiul
+[OK] Acts_28_01
+  EN: Paul on the Island of Malta
+  RO: Pavel pe insula Malta
+[OK] Acts_28_02
+  EN: Paul Arrives at Rome
+  RO: Pavel sosește la Roma
+[OK] Acts_28_03
+  EN: Paul and Jewish Leaders in Rome
+  RO: Pavel și conducătorii iudei din Roma
+[OK] Acts_28_04
+  EN: Paul Preaches in Rome
+  RO: Pavel propovăduiește în Roma
+
+----------------------------------------------------------------------
+Summary for Faptele Apostolilor:
+  Total pericopes:         89
+  Already translated:      30
+  Newly translated:        50
+  Missing translations:     9
+
+  Missing translations:
+    - Peter Speaks in Solomon’s Portico
+    - Stephen’s Speech to the Council
+    - Peter’s Report to the Church at Jerusalem
+    - The Council’s Letter to Gentile Believers
+    - Paul’s Vision of the Man of Macedonia
+    - Paul’s Return to Antioch
+    - Paul’s Farewell Visit to Troas
+    - Paul’s Journey to Jerusalem
+    - Paul’s Defense before Felix
+
+======================================================================
+OVERALL SUMMARY
+======================================================================
+Book                      | Total | Already |   New | Missing
+----------------------------------------------------------------------
+Matei                     |   156 |      49 |    97 |      10
+Marcu                     |    94 |      51 |    34 |       9
+Luca                      |   150 |      79 |    58 |      13
+Ioan                      |    79 |      44 |    27 |       8
+Faptele Apostolilor       |    89 |      30 |    50 |       9
+----------------------------------------------------------------------
+TOTAL                     |   568 |     253 |   266 |      49
+
+
+Total unique missing translations: 37
+
+First 20 missing translations:
+  - God’s Chosen Servant
+  - Healings at Simon’s House
+  - Herod’s Perplexity
+  - Jesus Foretells Peter’s Denial
+  - Jesus Heals Many at Peter’s House
+  - Jesus Heals Many at Simon’s House
+  - Jesus Heals a Centurion’s Servant
+  - Jesus Heals an Official’s Son
+  - Jesus Predicts Peter’s Denial
+  - Jesus Raises the Widow’s Son at Nain
+  - Jesus Washes the Disciples’ Feet
+  - Jesus’ Authority Is Questioned
+  - Jesus’ Side Is Pierced
+  - Jesus’ Triumphal Entry into Jerusalem
+  - Mary’s Song of Praise
+  - Paul’s Defense before Felix
+  - Paul’s Farewell Visit to Troas
+  - Paul’s Journey to Jerusalem
+  - Paul’s Return to Antioch
+  - Paul’s Vision of the Man of Macedonia
+
+======================================================================
+Translation complete!
+======================================================================
