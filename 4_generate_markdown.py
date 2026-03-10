@@ -45,6 +45,22 @@ class MarkdownGenerator:
                     self.book_num_to_ro_name[book_data['book_number']] = book['name_ro']
                     break
 
+    def sanitize_filename(self, filename: str) -> str:
+        """
+        Remove invalid characters from filename.
+
+        Args:
+            filename: Original filename
+
+        Returns:
+            Sanitized filename safe for Windows/Unix
+        """
+        # Replace invalid characters with safe alternatives
+        invalid_chars = '<>:"/\\|?*'
+        for char in invalid_chars:
+            filename = filename.replace(char, '')
+        return filename
+
     def get_pericope_filename(self, book_num: int, book_name_ro: str, chapter: int,
                              pericope_num: str, title: str) -> str:
         """
@@ -60,7 +76,9 @@ class MarkdownGenerator:
         Returns:
             Filename like: (51 Matei 01.01) The Genealogy of Jesus the Messiah.md
         """
-        return f"({book_num:02d} {book_name_ro} {chapter:02d}.{pericope_num}) {title}.md"
+        # Sanitize title to remove invalid filename characters
+        safe_title = self.sanitize_filename(title)
+        return f"({book_num:02d} {book_name_ro} {chapter:02d}.{pericope_num}) {safe_title}.md"
 
     def get_prev_next_pericopes(self, all_pericopes: List[Dict], current_index: int,
                                all_books_data: List[Dict]) -> tuple:
@@ -85,7 +103,7 @@ class MarkdownGenerator:
                 prev['book_name_ro'],
                 prev['chapter'],
                 prev['pericope_num'],
-                prev['title']
+                prev['title_ro']
             )
 
         if current_index < len(all_pericopes) - 1:
@@ -95,7 +113,7 @@ class MarkdownGenerator:
                 next_p['book_name_ro'],
                 next_p['chapter'],
                 next_p['pericope_num'],
-                next_p['title']
+                next_p['title_ro']
             )
 
         return prev_filename, next_filename
@@ -121,7 +139,8 @@ class MarkdownGenerator:
         frontmatter += f"book_romanian: {book_data['name_ro']}\n"
         frontmatter += f"chapter: {pericope['chapter']}\n"
         frontmatter += f"pericope: {int(pericope['pericope_num'])}\n"
-        frontmatter += f'pericope_title: "{pericope["title"]}"\n'
+        frontmatter += f'pericope_title_en: "{pericope["title_en"]}"\n'
+        frontmatter += f'pericope_title_ro: "{pericope["title_ro"]}"\n'
         frontmatter += f"verses_start: {pericope['start_verse']}\n"
         frontmatter += f"verses_end: {pericope['end_verse']}\n"
         frontmatter += f"verses_total: {pericope['verse_count']}\n"
@@ -129,7 +148,7 @@ class MarkdownGenerator:
         frontmatter += "---\n"
 
         # Generate title
-        content = f"# {pericope['title']}\n\n"
+        content = f"# {pericope['title_en']}\n\n"
 
         # Generate navigation (top)
         nav = ""
@@ -233,7 +252,7 @@ class MarkdownGenerator:
                     book_name_ro,
                     pericope['chapter'],
                     pericope['pericope_num'],
-                    pericope['title']
+                    pericope['title_ro']
                 )
 
                 # Write file
